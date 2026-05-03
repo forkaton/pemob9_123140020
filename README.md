@@ -244,9 +244,21 @@ Pesan 3: "Ringkaskan semua risiko yang telah kita bahas."
 
 ## Screenshot Aplikasi
 
-| Welcome Screen | Audit in Progress | Hasil Analisis | Error Handling |
-|![img.png](img.png)|![img_1.png](img_1.png)|![img_2.png](img_2.png)|![img_3.png](img_3.png)|
-| *Welcome card dengan contoh skenario* | *Typing indicator beranimasi* | *Laporan audit terstruktur* | *Error card dengan pesan informatif* |
+### Welcome Screen
+![img.png](img.png)
+*Welcome card dengan contoh skenario*
+
+### Audit in Progress
+![img_1.png](img_1.png)
+*Typing indicator beranimasi*
+
+### Hasil Analisis
+![img_2.png](img_2.png)
+*Laporan audit terstruktur*
+
+### Error Handling
+![img_3.png](img_3.png)
+*Error card dengan pesan informatif* 
 
 ---
 
